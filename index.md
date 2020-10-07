@@ -3,15 +3,15 @@
 
 ### Section 1 ###
 
- [link1] (index.md)
+ [link 1](index.md)
 
 ### Section 2 ###
 
- [link2] (index.md)
+ [link 2](index.md)
 
 ### Section 3 ###
 
- [link3] (index.md)
+ [link 3](index.md)
 
 ---
 
