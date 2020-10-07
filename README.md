@@ -1,5 +1,5 @@
-# Links to Projects #
+### Links to Projects ###
 
-# Links to Demos #
+### Links to Demos ###
 
-# Blog Posts #
+### Blog Posts ###
