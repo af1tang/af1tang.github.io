@@ -3,15 +3,15 @@
 
 ### Section 1 ###
 
- [link1] (af1tang.github.io)
+ [link1] (index.md)
 
 ### Section 2 ###
 
- [link2] (af1tang.github.io)
+ [link2] (index.md)
 
 ### Section 3 ###
 
- [link3] (af1tang.github.io)
+ [link3] (index.md)
 
 ---
 
