@@ -1,10 +1,3 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
@@ -18,19 +11,35 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Welcome
+# descriptions
+title: af1tang.github.io
 email: af1tang2@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I dabble in various research topics. Here are some highlights.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://af1tang.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: af1tang
+
+# autho info 
+author: Fengyi Tang
+#youtube_username: af1tang
+linkedin_username: af1tang
+# twitter_username: af1tang
 github_username:  af1tang
+copyright:
+
+# logo
+title-logo: /images/profile2.jpg
+
+# header order
+header_pages:
+  - demos/index.markdown
+  - code/index.markdown
+  - blog/index.markdown
+  - teaching/index.markdown
+  - cv/index.markdown
 
 # Build settings
-theme: minima
+#theme: minima
 plugins:
   - jekyll-feed
 
