@@ -30,6 +30,11 @@ p {
     font-size: 14px;
 }
 
+/* deal with orientation issues */
+html {
+    -webkit-text-size-adjust: 100%; /* Prevent font scaling in landscape while allowing user zoom */
+}
+
 div{
     margin-left:auto;
     margin-right:auto;
@@ -54,10 +59,3 @@ table {
     justify-content: center;
 }
 
-/* Use a media query to add a breakpoint at 800px: */
-
-/*@media screen and (max-width: 800px) {
-  .left, .main, .right {
-    width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
-/*  }
-}*/
