@@ -28,6 +28,9 @@ p {
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
     font-size: 14px;
+    -webkit-text-size-adjust: 100%;
+      -moz-text-size-adjust: 100;
+      -ms-text-size-adjust: 100%;
 }
 
 /* deal with orientation issues */
